@@ -1,8 +1,8 @@
 ## 数据结构
 
-![](https://github.com/xuxh0622/learn-arrange/blob/master/source/aca.png)
+![](https://github.com/xuxh0622/learn-arrange/blob/master/source/aba.png)
 
-（数组+链表+红黑树）
+> （数组+链表+红黑树）综合所得。
 
 ## 源码分析
 
@@ -279,4 +279,4 @@ final Node<K,V>[] resize() {
 }
 ```
 
-![](https://github.com/xuxh0622/learn-arrange/blob/master/source/acb.png)
+![](https://github.com/xuxh0622/learn-arrange/blob/master/source/abb.png)
